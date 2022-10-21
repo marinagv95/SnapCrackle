@@ -1,3 +1,5 @@
+
+
 function snapCrackle(maxValue){
   let valor = ""
 
@@ -22,10 +24,13 @@ function snapCrackle(maxValue){
    
      
     }
-    console.log(valor)
+    return valor
   }
   
-let resultado = snapCrackle(12)
+  
+  
+  
+console.log(snapCrackle(12))
 
 
 
@@ -58,6 +63,22 @@ let resultado = snapCrackle(12)
 
 // }
 // let resultadoCompleto = snapCrackle(15)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
